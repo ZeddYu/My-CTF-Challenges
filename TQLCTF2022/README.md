@@ -20,5 +20,7 @@ The last Pastebin is not safe. So here is a more secure Pastebin. Go for flag!
 
 Based on Tom's wonderful report: [Partial report contents leakage - via HTTP/2 concurrent stream handling](https://hackerone.com/reports/493176)
 
-[Writeup for A More Secure Pastebin - Practical Timeless Timing in Browser](https://blog.zeddyu.info/2022/02/21/2022-02-21-PracticalTimingTimeless/)
+XS-Leaks + Timeless Timing( HTTP/2 Concurrent Stream + TCP Congestion Control )
+
+Write up in Chinese: [Writeup for A More Secure Pastebin - Practical Timeless Timing in Browser](https://blog.zeddyu.info/2022/02/21/2022-02-21-PracticalTimingTimeless/)
 
