@@ -12,7 +12,7 @@ The last Pastebin is not safe. So here is a more secure Pastebin. Go for flag!
 
 1. Please generate server keys and then put them under the `./proxy` directory.
 2. `docker-compose up -d --build`
-3. Bot listen at localhost:4000 and web app listens at https://localhost:11001
+3. Bot listen at http://localhost:4000 and web app listens at https://localhost:11001
 
 
 
